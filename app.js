@@ -3,7 +3,7 @@ const app = Vue.createApp({
     return {
       firstName: 'Derrick',
       lastName: 'Strong',
-      age: 41,
+      age: 7,
       imgUrl: 'https://images-na.ssl-images-amazon.com/images/I/41PlqABJebL._SY355_.jpg',
       width: '200',
     };
